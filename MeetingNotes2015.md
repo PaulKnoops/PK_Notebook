@@ -11,4 +11,16 @@ Topics to discuss today:
 4.Following around Carling and Andrew
 
 
-## 
+## Why do this in github with markdown. 
+
+**you can show me your code**
+
+```bash
+wc -l *.fastq
+```
+
+and some `R`
+```r
+var1 <- lm(y~x)
+```
+
